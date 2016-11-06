@@ -1,0 +1,83 @@
+.header-right{
+  float: right;
+
+}
+.header-right li{
+  float: left;
+  border-left: 1px solid #000000;
+  padding: 20px 30px;
+  font-size: 17px;
+}
+
+a{
+  color: #000000;
+  text-decoration: none;
+}
+
+.header{
+  overflow: hidden;
+  margin: 50px 180px;
+}
+
+.header li{
+  list-style: none;
+}
+.top-box{
+      background: none;
+      border:1px solid black;
+      margin: 0 auto;
+      margin: 0px 180px;
+      padding-bottom: 50px;
+      }
+.top-item{
+  float: left;
+  width: 400px;
+  margin-left: 150px;
+}
+.title h1{
+  font-weight: bold;
+  color:
+  font-size: 39px;
+  margin-top: 50px;
+  margin-left: -24px;
+}
+.top-introdaction{
+  letter-spacing: 5px;
+}
+.sab-introdaction{
+  letter-spacing: 5px;
+  margin-left: -35px;
+}
+.contents-top-item{
+  float: left ;
+ width: 450px;
+ margin-top: 160px;
+ letter-spacing: 5px;
+}
+.clear{
+  clear: both;
+}
+.contents-top-item p{
+color: #000000;
+}
+.contents-top-item a:hover{
+  background-color: #FFFFFF;
+}
+.next-event{
+  font-size: 20px;
+}
+.place{
+  font-size: 20px;
+}
+.contct{
+  font-size: 20px;
+}
+.next2{
+  font-size: 15px;
+}
+.next2 a{
+  color: #000000;
+}
+body{
+font-family:'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', sans-serif !important;
+}
