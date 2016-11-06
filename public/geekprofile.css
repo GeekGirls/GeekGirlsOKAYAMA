@@ -1,0 +1,80 @@
+.header-right{
+  float: right;
+
+}
+.header-right li{
+  float: left;
+  border-left: 1px solid #000000;
+  padding: 20px 30px;
+  font-size: 17px;
+}
+
+a{
+  color: #000000;
+  text-decoration: none;
+}
+
+
+.header{
+  overflow: hidden;
+  padding: 50px 180px 0 0;
+}
+
+.header li{
+  list-style: none;
+}
+
+.title h1{
+  text-align: center;
+  background: linear-gradient(transparent 60%, #f08080 0%);
+  font-size: 30px;
+}
+.top-box{
+      width:1000px;
+
+      border:1px solid black;
+      margin: 0 auto;
+      margin-top: 30px;
+      margin-bottom: 200px;
+      background-repeat: no-repeat;
+      background-color: white;
+
+      }
+
+.top-item{
+  background-color:rgba(255,255,255,0.5);
+
+}
+
+.top-introdaction{
+  padding: 40px 20px;
+  font-size: 25px;
+  text-align: center;
+}
+.top-introdaction2{
+  font-size: 19px;
+  padding: 30px 0px;
+  text-align: center;
+  color: #9B9B9B;
+}
+.top-introdaction2 img{
+    border-radius: 10px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 10px;
+    border: 2px solid #f08080  ;
+}
+.top-introdaction2 ul li{
+  width: 300px;
+  float: left;
+  list-style: none;
+}
+.top-introdaction2 ul{
+  overflow: hidden;
+}
+
+.top-introdaction3{
+  font-size: 19px;
+}
+body{
+font-family:'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', sans-serif !important;
+}

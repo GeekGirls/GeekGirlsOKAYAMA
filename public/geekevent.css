@@ -1,0 +1,56 @@
+.header-right{
+  float: right;
+
+}
+.header-right li{
+  float: left;
+  border-left: 1px solid #000000;
+  padding: 20px 30px;
+  font-size: 17px;
+}
+
+a{
+  color: #000000;
+  text-decoration: none;
+}
+
+
+.header{
+  overflow: hidden;
+  padding: 50px 180px 0 0;
+}
+
+.header li{
+  list-style: none;
+}
+
+.title h1{
+  text-align: center;
+  background: linear-gradient(transparent 60%, #f08080 0%);
+  font-size: 30px;
+}
+.top-box{
+      width:1000px;
+      background-image: url("file:///C:/Users/snkwm/Downloads/gg2.png");
+      background-size: 150px 150px;
+      border:1px solid black;
+      margin: 0 auto;
+      margin-top: 30px;
+      margin-bottom: 200px;
+      background-repeat: no-repeat;
+      background-color: white;
+      background-position: center;
+      }
+
+.top-item{
+  background-color:rgba(255,255,255,0.5);
+}
+
+.top-introdaction{
+  padding: 40px 20px;
+  text-align: center;
+  font-size: 25px;
+}
+body{
+font-family:'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', sans-serif !important;
+}
