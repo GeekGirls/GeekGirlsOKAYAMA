@@ -54,3 +54,6 @@ a{
 body{
 font-family:'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', sans-serif !important;
 }
+
+.calendar { margin:10px 0; }
+.calendar iframe { margin: 0 auto; display: block; }
